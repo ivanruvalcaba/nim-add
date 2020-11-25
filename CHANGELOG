@@ -1,0 +1,11 @@
+2020/11/24  Iván Ruvalcaba  <ivanruvalcaba[at]disroot[dot]org>
+
+    * Initial commit.
+        + .gitignore: Add project gitignore file.
+        + .editorconfig: Add project EditorConfig file.
+        + add.geany: Add Geany project file.
+        + LICENSE: Add project LICENSE file.
+        + CHANGELOG: Add project CHANGELOG file.
+        + README.markdown: Add project README file.
+        + src/add.nim: Write package main module file.
+        + tests/testAdd.nim: Add package unittest file.
